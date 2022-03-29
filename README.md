@@ -1,2 +1,2 @@
 # aws-ruby-tools
-AWS tools implemeted using Ruby
+AWS tools implemented using Ruby
